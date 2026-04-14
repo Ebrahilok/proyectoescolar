@@ -1,0 +1,69 @@
+/* Estilo general de toda la página */
+body {
+  font-family: Arial; /* Cambia la fuente del texto */
+  margin: 0; /* Elimina el espacio exterior por defecto del navegador */
+}
+
+/* Estilos del encabezado */
+header {
+  background-color: #2c3e50; /* Color de fondo oscuro */
+  color: white; /* Color del texto */
+  padding: 10px; /* Espacio interno alrededor del contenido */
+}
+
+/* Estilos de la lista del menú */
+nav ul {
+  list-style: none; /* Quita los puntos de la lista */
+  display: flex; /* Coloca los elementos en fila horizontal */
+  gap: 10px; /* Espacio entre cada elemento del menú */
+  padding: 0; /* Quita espacio interno por defecto */
+}
+
+/* Estilos del contenido principal */
+main {
+  padding: 20px; /* Espacio interno para que no esté pegado a los bordes */
+}
+
+/* Estilos de cada sección */
+section {
+  background-color: #626060; /* Color de fondo claro */
+  padding: 15px; /* Espacio interno dentro de la sección */
+  margin-bottom: 10px; /* Espacio entre secciones */
+  border-radius: 8px; /* Bordes redondeados */
+}
+
+/* Opcional: imagen del alumno */
+img {
+  border-radius: 8px; /* Bordes redondeados en la imagen */
+  margin-bottom: 10px; /* Espacio debajo de la imagen */
+}
+
+/* Estilos del footer */
+footer {
+  background-color: #2c3e50; /* Mismo color que el header */
+  color: white; /* Texto en color blanco */
+  text-align: center; /* Centra el texto */
+  padding: 10px; /* Espacio interno */
+}
+
+.carta {
+    /* Fondo y borde para que se note */
+    background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    
+    /* ESTO ES LO IMPORTANTE: Bordes redondeados */
+    border-radius: 15px;
+    
+    /* Tamaño y espaciado */
+    width: 1300px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.1); /* Opcional: sombra */
+    font-family: Arial, sans-serif;
+  }
+
+/* stilo de href */
+nav a {
+  text-decoration: none;
+  color: white;
+}
