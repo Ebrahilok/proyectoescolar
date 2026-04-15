@@ -20,8 +20,6 @@ Este tipo de proyectos es común en entornos educativos donde herramientas como 
 *(Edita esta sección según tu proyecto)*
 
 - Lenguaje: JavaScript / Python / Java / etc.
-- Framework: React / Node.js / Django / etc.
-- Base de datos: MySQL / MongoDB / PostgreSQL
 - Otros: HTML, CSS, Bootstrap
 
 ---
