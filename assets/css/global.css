@@ -15,7 +15,8 @@ header {
 nav ul {
   list-style: none; /* Quita los puntos de la lista */
   display: flex; /* Coloca los elementos en fila horizontal */
-  gap: 10px; /* Espacio entre cada elemento del menú */
+  justify-content: center;
+  gap: 20px; /* Espacio entre cada elemento del menú */
   padding: 0; /* Quita espacio interno por defecto */
 }
 
@@ -73,12 +74,6 @@ nav a {
   grid-template-columns: repeat(3, minmax(300px, 1fr));
   gap: 20px;
   padding: 20px;
-}
-/*estilo de index con flexbox*/
-nav ul {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
 }
 
 .inicio {

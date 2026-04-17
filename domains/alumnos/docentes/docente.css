@@ -15,7 +15,8 @@ header {
 nav ul {
   list-style: none; /* Quita los puntos de la lista */
   display: flex; /* Coloca los elementos en fila horizontal */
-  gap: 10px; /* Espacio entre cada elemento del menú */
+  justify-content: center;
+  gap: 20px; /* Espacio entre cada elemento del menú */
   padding: 0; /* Quita espacio interno por defecto */
 }
 
