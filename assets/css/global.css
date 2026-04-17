@@ -67,3 +67,24 @@ nav a {
   text-decoration: none;
   color: white;
 }
+/*estilo de index con css flex*/
+.informacion {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+/*estilo de index con flexbox*/
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.inicio {
+  text-align: center;
+  padding: 50px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
