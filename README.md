@@ -21,15 +21,3 @@ Este tipo de proyectos es común en entornos educativos donde herramientas como 
 
 - Lenguaje: JavaScript / Python / Java / etc.
 - Otros: HTML, CSS, Bootstrap
-
----
-
-## 📂 Estructura del proyecto
-
-```bash
-PlataformaEscolar/
-│── src/              # Código fuente
-│── public/           # Archivos públicos
-│── database/         # Scripts o modelos de base de datos
-│── docs/             # Documentación
-│── README.md
