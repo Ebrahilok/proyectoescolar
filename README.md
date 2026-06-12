@@ -17,7 +17,5 @@ Este tipo de proyectos es común en entornos educativos donde herramientas como 
 
 ## 🛠️ Tecnologías utilizadas
 
-*(Edita esta sección según tu proyecto)*
-
-- Lenguaje: JavaScript / Python / Java / etc.
-- Otros: HTML, CSS, Bootstrap
+- Lenguaje: JavaScript
+- Otros: HTML, CSS
