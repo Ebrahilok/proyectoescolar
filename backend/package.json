@@ -1,0 +1,14 @@
+{
+  "name": "api-consultas-medicas",
+  "version": "1.0.0",
+  "description": "Backend para consultas e historial medico universitario",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
+
